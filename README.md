@@ -61,5 +61,6 @@ In today's world of fake news and information overload, it's important to think 
 - Make informed decisions
 - Develop better critical thinking skills
 
-![Project Screenshot](images/image.png)
+<img width="1949" height="1351" alt="image" src="https://github.com/user-attachments/assets/e0188c88-a633-4c14-9f72-76a45945e362" />
+
 # p2-dwarix-ai
